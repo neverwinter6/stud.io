@@ -1,0 +1,16 @@
+# Keep secrets and Vercel state out of the repo
+.vercel
+.env*
+
+# Scratch work: preview harnesses, backups, screenshots, old patch scripts
+_preview/
+_backup/
+esp32-wifi-analyzer/
+index.pre-*.html
+*.py
+apply_login*.js
+fix_*.js
+patch-*.js
+test.js
+test.html
+Untitled-1.txt

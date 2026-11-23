@@ -1,0 +1,4 @@
+# Only the app itself is published — everything else in this folder is
+# scratch work (old one-off patch scripts, preview harnesses, test files).
+*
+!index.html
